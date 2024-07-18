@@ -7,7 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Selenium_Java_Principiantes" />
+        <module name="B-" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="B-" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
