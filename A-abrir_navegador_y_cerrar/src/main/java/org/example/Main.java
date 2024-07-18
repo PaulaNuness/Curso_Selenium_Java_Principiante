@@ -7,8 +7,11 @@ public class Main {
     public static void main(String[] args) throws InterruptedException {
 
         // Configurar la propiedad del sistema para el ChromeDriver, hay que poner la ruta donde tenemos el executable
-        System.setProperty("webdriver.chrome.driver", "./Selenium_Java_Principiantes/drivers/chromedriver.exe");
-        //si ponemos en la variable de entorno no necesitamos poner la linea arriba
+        //System.setProperty("webdriver.chrome.driver", "./Selenium_Java_Principiantes/drivers/chromedriver.exe");
+
+
+        //si ponemos en la variable de entorno no necesitamos poner la linea arriba,como hice:
+        //variable de entorno-->path-->editar-->nuevo-->la ruta donde tengo el driver(por ejemplo:C:\Users\paula\OneDrive\Documentos\GitHub\Curso_Selenium_Java_Principiante\Selenium_Java_Principiantes\drivers)
 
         // Instanciar el WebDriver utilizando Chrome
         WebDriver driver = new ChromeDriver();
