@@ -7,12 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="A-abrir_navegador_y_cerrar" />
+        <module name="B-abrir_wikipedia_" />
         <module name="B-" />
-        <module name="B-abrir_wikipedia" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="B-" target="21" />
+      <module name="B-abrir_wikipedia" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
