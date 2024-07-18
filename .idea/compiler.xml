@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Selenium_Java_Principiantes" />
+        <module name="A-abrir_navegador_y_cerrar" />
         <module name="B-" />
-        <module name="B-se" />
+        <module name="B-abrir_wikipedia" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
