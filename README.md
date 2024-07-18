@@ -10,7 +10,7 @@
 * https://chromedriver.chromium.org/
 * descargar la version estable windows
 * luego extraer todo
-* Pero puse en POM la dependencia de Selenium, que encontre en la pagina Maven Repository
+* Creamos una carpeta en el proyecto con el nombre drivers, ponemos el executable de Chrome
 *************************************************************************************************************
 # Crear proyecto Java con librerias Selenium Wedriver
 * [Proyecto 01]()
