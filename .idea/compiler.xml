@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Selenium_Java_Principiantes" />
         <module name="B-" />
+        <module name="B-se" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
